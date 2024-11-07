@@ -1,0 +1,12 @@
+10
+10 A - Red
+15 A - Blue
+20
+20 A - Yellow
+25 A - White
+3 A - Violet
+30 A - GREEN
+40
+5 A - Light Brown
+7.5 A - Dark Brown
+Relay
